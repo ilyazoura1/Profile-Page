@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "firstName": "Emma",
+    "lastName": "Johnson",
+    "username": "emmaj",
+    "profilePic": "assets/images/emma.jpg",
+    "bio": "Nature enthusiast. Love to capture moments. 📸"
+  },
+  {
+    "id": 1,
+    "firstName": "Liam",
+    "lastName": "Smith",
+    "username": "liams",
+    "profilePic": "assets/images/liam.jpg",
+    "bio": "Tech geek. Coding my way through life. 💻"
+  },
+  {
+    "id": 1,
+    "firstName": "Olivia",
+    "lastName": "Brown",
+    "username": "oliviab",
+    "profilePic": "assets/images/olivia.jpg",
+    "bio": "Coffee lover. Always on the go. ☕"
+  },
+  {
+    "id": 1,
+    "firstName": "Noah",
+    "lastName": "Davis",
+    "username": "noahd",
+    "profilePic": "assets/images/noah.jpg",
+    "bio": "Fitness addict. Running towards my goals. 🏃‍♂️"
+  },
+  {
+    "id": 1,
+    "firstName": "Ava",
+    "lastName": "Miller",
+    "username": "avam",
+    "profilePic": "assets/images/ava.jpg",
+    "bio": "Bookworm. Exploring new worlds one page at a time. 📚"
+  }
+]
